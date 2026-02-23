@@ -25,7 +25,7 @@ const divide = (arr, n) => {
 	if(arr2.length>0){
 	    arr3.push(arr2)
 	}
-	console.log(arr3)
+	return arr3;
 
 
 
