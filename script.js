@@ -1,9 +1,11 @@
 const arr = [1, 2, 3, 4, 1, 0, 2, 2];
+let z=o;
+let arr2=[];
+	let arr3=[];
 
 const divide = (arr, n) => {
-	const arr = [1, 2, 3, 4, 1, 0, 2, 2];
-let z=o;
-let arr2;
+	
+
 const divide = (arr, n) => {
 	or (let i = 0;i< arr.length; i++){
 		z=z+arr[i];
