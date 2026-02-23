@@ -1,5 +1,5 @@
 const arr = [1, 2, 3, 4, 1, 0, 2, 2];
-let z=o;
+let z=0;
 let arr2=[];
 	let arr3=[];
 
