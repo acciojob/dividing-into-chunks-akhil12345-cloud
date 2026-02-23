@@ -3,11 +3,11 @@ let z=o;
 let arr2=[];
 	let arr3=[];
 
-const divide = (arr, n) => {
+
 	
 
 const divide = (arr, n) => {
-	or (let i = 0;i< arr.length; i++){
+	for (let i = 0;i< arr.length; i++){
 		z=z+arr[i];
 		if(z<=n){
 		   arr2.push(arr[i])
@@ -40,7 +40,3 @@ alert(JSON.stringify(divide(arr, n)));
 
 	
   // Write your code here
-};
-
-const n = prompt("Enter n: ");
-alert(JSON.stringify(divide(arr, n)));
